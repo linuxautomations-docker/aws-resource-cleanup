@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sh /AWS/clean_resources/clean.sh
+sh -x /AWS/clean_resources/clean.sh
